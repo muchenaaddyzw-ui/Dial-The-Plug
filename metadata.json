@@ -1,0 +1,6 @@
+{
+  "name": "Dial the Plug",
+  "description": "Sleek, high-energy streetwear and sneaker marketplace connecting buyers with verified plugs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
